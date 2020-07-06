@@ -1,0 +1,18 @@
+SMAP
+detail_jsp.java
+JSP
+*S JSP
+*F
++ 0 detail.jsp
+views/detail.jsp
+*L
+5,5:44
+10:49,3
+11:52
+12:53,3
+13,36:56
+49:92,3
+50,4:95
+54:99,3
+55,2:102
+*E
